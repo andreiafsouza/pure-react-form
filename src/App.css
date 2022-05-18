@@ -3,13 +3,15 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #1C1D21;
+    background-color: #9EBD6E;
 }
 
 form {
-    background-color: #F8F1FF;
+    background-color: #b2d1dc;
     padding: 0px 60px;
     border-radius: 14px;
+    border: 2px solid #8F6593;
+
 }
 
 h1 {
